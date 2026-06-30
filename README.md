@@ -282,8 +282,7 @@ JSON Output
 
 B.E. Computer Science and Engineering
 
-GitHub: github.com/harishchowdaryk
-
+GitHub: https://github.com/harishchowdaryk
 Email: harishchowdary132@gmail.com
 
 ---
