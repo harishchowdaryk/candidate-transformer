@@ -1,0 +1,36 @@
+{
+    "fields": [
+        {
+            "path": "full_name",
+            "from": "full_name"
+        },
+        {
+            "path": "emails",
+            "from": "emails"
+        },
+        {
+            "path": "phones",
+            "from": "phones"
+        },
+        {
+            "path": "location",
+            "from": "location"
+        },
+        {
+            "path": "skills",
+            "from": "skills"
+        },
+        {
+            "path": "education",
+            "from": "education"
+        },
+        {
+            "path": "experience",
+            "from": "experience"
+        },
+        {
+            "path": "overall_confidence",
+            "from": "overall_confidence"
+        }
+    ]
+}

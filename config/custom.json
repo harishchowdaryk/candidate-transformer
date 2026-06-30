@@ -1,0 +1,24 @@
+{
+    "fields": [
+        {
+            "path": "candidate_name",
+            "from": "full_name"
+        },
+        {
+            "path": "primary_email",
+            "from": "emails[0]"
+        },
+        {
+            "path": "primary_phone",
+            "from": "phones[0]"
+        },
+        {
+            "path": "skills",
+            "from": "skills"
+        },
+        {
+            "path": "confidence",
+            "from": "overall_confidence"
+        }
+    ]
+}
