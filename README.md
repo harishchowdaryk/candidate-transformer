@@ -89,7 +89,7 @@ candidate-transformer/
 ### 1. Clone the Repository
 
 ```bash
- git clone https://github.com/harishchowdaryk/candidate-transformer.git
+git clone https://github.com/harishchowdaryk/candidate-transformer.git
 cd candidate-transformer
 ```
 
