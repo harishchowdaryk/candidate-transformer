@@ -89,7 +89,7 @@ candidate-transformer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/candidate-transformer.git
+ git clone https://github.com/harishchowdaryk/candidate-transformer.git
 cd candidate-transformer
 ```
 
@@ -282,9 +282,9 @@ JSON Output
 
 B.E. Computer Science and Engineering
 
-GitHub: https://github.com/your-username
+GitHub: github.com/harishchowdaryk
 
-Email: your-email@example.com
+Email: harishchowdary132@gmail.com
 
 ---
 
